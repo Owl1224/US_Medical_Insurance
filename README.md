@@ -9,6 +9,7 @@ The input of this project consists in a .csv list of US medical insurance client
   -  smoker
   -  region
   -  charges
+
 The goal was to familiarize with an IDE enviroment and, to open the input file and to provide some insights on the data available to practice
 the core concepts of Python language and data science. (For this reason no additional libraries are used such as Pandas)
 
